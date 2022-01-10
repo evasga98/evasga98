@@ -16,3 +16,5 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 📫 How to reach me --> evasga98@gmail.com
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evasga98)
