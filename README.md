@@ -1,13 +1,11 @@
 ## 👋 Hi, I’m @evasga98 app developer and telematic engineer
-<br>
+
 
 ### 👀 I’m interested in app dev and cybersecurity
-<br>
 
 ### 🌱 I’m currently learning / Last Projects
 - Docker and Kubernetes
 - React JS
-<br>
 
 ### 💡 Skills: 
 
