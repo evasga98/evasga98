@@ -1,10 +1,15 @@
-<h3>👋 Hi, I’m @evasga98 app developer and telematic engineer  </h3><br>
+## 👋 Hi, I’m @evasga98 app developer and telematic engineer
+<br>
 
-👀 I’m interested in app dev and cybersecurity  
+### 👀 I’m interested in app dev and cybersecurity
+<br>
 
-🌱 I’m currently learning docker and react.js
+### 🌱 I’m currently learning / Last Projects
+- Docker and Kubernetes
+- React JS
+<br>
 
-💡 Skills: 
+### 💡 Skills: 
 
 <h4>Programming Languages</h4>
 <p>
@@ -41,12 +46,6 @@
 </p>
 <br>
 
-### 🌱 I'm currently learning... / Last Projects
-
-- Docker and Kubernetes
-- React JS
-
-<br>
 
 ### Github Stats:
 
