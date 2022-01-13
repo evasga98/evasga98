@@ -49,8 +49,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evasga98&theme=radical&card_width=450em)](https://github.com/evasga98/evasga98/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=evasga98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=evasga98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eva's github stats" /></a></td>
+    <td valign="top"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evasga98&layout=compact&theme=buefy&hide_border=true" /></a></td>
   </tr>
 </table>
-
