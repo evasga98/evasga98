@@ -1,55 +1,50 @@
-## 👋 Hi, I’m @evasga98 app developer and telematic engineer
+# 👋 Hi, I’m Eva Sánchez-Guerrero Ayala
 
+🚀 **Software Engineer** specializing in **backend development, APIs, and large-scale data processing**. Passionate about **performance optimization, DevOps, and AI applications**.
 
-### 👀 I’m interested in app dev and cybersecurity
+## 👀 Interests
+- **Backend Development** (Flask, REST APIs)
+- **Cloud & DevOps** (Docker, Kubernetes, Azure)
+- **Data Processing** (Pandas)
+- **Frontend Development** (React.js)
 
-### 🌱 I’m currently learning / Last Projects
-- Docker and Kubernetes
-- React JS
+## 🌱 Currently Learning / Recent Projects
+- Expanding expertise in **React.js**  
+- Exploring **Machine Learning & Natural Language Processing (NLP)**  
+- Developing **secure APIs with JWT authentication**  
 
-### 💡 Skills: 
+## 💡 Skills  
 
-<h4>Programming Languages</h4>
-<p>
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-FF6C37?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/CSharp-005C84?style=for-the-badge&logo=CSharp&logoColor=white">
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF6C37?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
 
-</p>
-<h4>Frontend Development</h4>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Java_Script-f0db4f?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white">
+### **Backend Development**
+![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=Flask&logoColor=black)
+![WebSockets](https://img.shields.io/badge/WebSockets-0078D4?style=for-the-badge&logo=websocket&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-</p>
-<h4>Backend Development</h4>
-<p>
+### **Data Processing & AI**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3FA037?style=for-the-badge&logo=plotly&logoColor=white)
 
-  <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=Flask&logoColor=black">
-  <img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache-812878?style=for-the-badge&logo=apache&logoColor=white">
-</p>
-<h4>Tools & Technologies</h4>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-</p>
-<br>
+### **Testing & Automation**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)
 
+---
 
-### Github Stats:
-
+## 📊 GitHub Stats  
 <table>
   <tr>
-    <td valign="top"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=evasga98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eva's github stats" /></a></td>
+    <td valign="top"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=evasga98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eva's GitHub stats" /></a></td>
     <td valign="top"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evasga98&layout=compact&theme=buefy&hide_border=true" /></a></td>
   </tr>
 </table>
